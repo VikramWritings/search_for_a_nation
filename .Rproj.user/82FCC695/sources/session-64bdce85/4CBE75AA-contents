@@ -1,0 +1,5 @@
+book_filename: "search_for_a_nation"
+language:
+  ui:
+    chapter_name: "Chapter "
+delete_merged_file: true
